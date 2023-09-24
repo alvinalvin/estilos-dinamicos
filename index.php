@@ -22,9 +22,8 @@
     <center>
       <p class="parrafo"><?php echo$saludo ; ?></p>
     </center>
-  <?php  }?>
-    <br>
-      <center><a href="procesar.php"><p class="parrafo">panel</p></a></center>
+     <?php  }?>
+    
 
 
     </body>
